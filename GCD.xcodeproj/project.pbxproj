@@ -14,6 +14,7 @@
 		0878DB98292471C0004E3FFD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0878DB97292471C0004E3FFD /* ViewController.swift */; };
 		0878DB9A2924738A004E3FFD /* MainThreadVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0878DB992924738A004E3FFD /* MainThreadVC.swift */; };
 		0878DB9C29247399004E3FFD /* DispatchGroupVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0878DB9B29247399004E3FFD /* DispatchGroupVC.swift */; };
+		08E9546C292DFCD5007557E9 /* TableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08E9546B292DFCD5007557E9 /* TableCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0878DB97292471C0004E3FFD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		0878DB992924738A004E3FFD /* MainThreadVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainThreadVC.swift; sourceTree = "<group>"; };
 		0878DB9B29247399004E3FFD /* DispatchGroupVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DispatchGroupVC.swift; sourceTree = "<group>"; };
+		08E9546B292DFCD5007557E9 /* TableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0878DB97292471C0004E3FFD /* ViewController.swift */,
 				0878DB992924738A004E3FFD /* MainThreadVC.swift */,
 				0878DB9B29247399004E3FFD /* DispatchGroupVC.swift */,
+				08E9546B292DFCD5007557E9 /* TableCell.swift */,
 				0878DB8C292471A1004E3FFD /* Assets.xcassets */,
 				0878DB8E292471A1004E3FFD /* LaunchScreen.storyboard */,
 				0878DB91292471A1004E3FFD /* Info.plist */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08E9546C292DFCD5007557E9 /* TableCell.swift in Sources */,
 				0878DB98292471C0004E3FFD /* ViewController.swift in Sources */,
 				0878DB9C29247399004E3FFD /* DispatchGroupVC.swift in Sources */,
 				0878DB842924719E004E3FFD /* AppDelegate.swift in Sources */,
